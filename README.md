@@ -11,6 +11,7 @@ Example : http://agar.io/
 ## Minimum Criteria:
 
 You are expected to design the game by using java. Below are the minimal criteria:
+
   Proper object oriented (OO) hierarchy (E.g. non-foods, foods, circle can be implemented that
 way. Use concepts of interfaces, abstract classes while designing OO hierarchy)
   Each time your circle color must be change.
@@ -35,7 +36,7 @@ without any errors, so don’t forget to run and check your application.
 in few second and you need to eat that power-up, if it’s not eaten, it will disappear. Certain
 power-ups have positive effects, while others have negative, making it important to try to
 collect the beneficial power-ups while avoiding the detrimental power-ups.
-  Good game experience/pleasure (minimum criteria for 3 people groups)
+  Good game experience/pleasure
   Save and Load High Score information to/from disk (minimum criteria for 3 people groups)
   Using multiple Threads
   HTTP download (e.g. download and display of high scores of other people which are set on a
@@ -45,6 +46,7 @@ webpage) (minimum criteria for 3 people groups)
 connect three or more computers to each other with Ethernet switch.)
 
 ## Limitation:
+
 You cannot use third party libraries in your project.
 
 
